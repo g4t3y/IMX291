@@ -8,10 +8,9 @@ import ipaddress as ip
 import json
 import pprint
 
-##### comment out as necessary ####
+# variables:
 # camera IP Address
 host_ip = '192.168.42.10'
-
 
 cam = DVRIPCam(host_ip, user='admin', password='password123')
 if cam.login():
