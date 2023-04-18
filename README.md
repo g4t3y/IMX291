@@ -1,5 +1,5 @@
-# RMS IMX291  
-Discover and update the camera configuration, especially for security minded users, for the IMX291 camera commonly used by the RMS software: https://github.com/CroatianMeteorNetwork/RMS  
+# IMX291  
+Discover and update the camera configuration, especially for security minded users, for the IMX291 camera  
 
 Use at your own risk, it is entirely possible this collection of scripts may have unexpected and undesired outcomes  
 
